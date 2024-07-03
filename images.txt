@@ -3,7 +3,7 @@
 xhofe/alist:latest
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
-homeassistant/home-assistan
+homeassistant/home-assistant
 deluan/navidrome
 wallabag/wallabag
 vaultwarden/server
