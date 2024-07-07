@@ -8,3 +8,4 @@ deluan/navidrome
 wallabag/wallabag
 vaultwarden/server
 gitea/gitea
+linuxserver/calibre-web
